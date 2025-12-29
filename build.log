@@ -1,0 +1,40 @@
+
+> topup_game@0.1.0 build
+> next build
+
+▲ Next.js 16.1.1 (Turbopack)
+
+  Creating an optimized production build ...
+Error: "./dist/tw-animate.css" is not exported under the condition "style" from package D:\coding\topup_game\node_modules\tw-animate-css (see exports field in D:\coding\topup_game\node_modules\tw-animate-css\package.json)
+    [2m[at D:\coding\topup_game\node_modules\enhanced-resolve\lib\ExportsFieldPlugin.js:123:7][0m
+    [2m[at Hook.eval [as callAsync] (eval at create (D:\coding\topup_game\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:22:1)][0m
+    [2m[at Resolver.doResolve (D:\coding\topup_game\node_modules\enhanced-resolve\lib\Resolver.js:715:16)][0m
+    [2m[at D:\coding\topup_game\node_modules\enhanced-resolve\lib\DescriptionFilePlugin.js:80:17][0m
+    [2m[at D:\coding\topup_game\node_modules\enhanced-resolve\lib\DescriptionFileUtils.js:161:24][0m
+    [2m[at D:\coding\topup_game\node_modules\enhanced-resolve\lib\forEachBail.js:39:13][0m
+    [2m[at onJson (D:\coding\topup_game\node_modules\enhanced-resolve\lib\DescriptionFileUtils.js:96:6)][0m
+    [2m[at D:\coding\topup_game\node_modules\enhanced-resolve\lib\DescriptionFileUtils.js:123:7][0m
+    [2m[at SyncAsyncFileSystemDecorator.readJson (D:\coding\topup_game\node_modules\enhanced-resolve\lib\SyncAsyncFileSystemDecorator.js:204:6)][0m
+    [2m[at D:\coding\topup_game\node_modules\enhanced-resolve\lib\DescriptionFileUtils.js:104:26][0m
+
+> Build error occurred
+Error: Turbopack build failed with 1 errors:
+./app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: tailwindcss: D:\coding\topup_game\app\globals.css:1:1: "./dist/tw-animate.css" is not exported under the condition "style" from package D:\coding\topup_game\node_modules\tw-animate-css (see exports field in D:\coding\topup_game\node_modules\tw-animate-css\package.json)
+    at Input.error (node_modules/postcss/lib/input.js:135:16) [D:\coding\topup_game\.next\build\chunks\node_modules_fe693df6._.js:4651:22]
+    at Root.error (node_modules/postcss/lib/node.js:146:32) [D:\coding\topup_game\.next\build\chunks\node_modules_fe693df6._.js:928:38]
+    [at Object.Once (D:\coding\topup_game\node_modules\@tailwindcss\postcss\dist\index.js:10:6911)]
+    [at process.processTicksAndRejections (node:internal/process/task_queues:103:5)]
+    at async LazyResult.runAsync (node_modules/postcss/lib/lazy-result.js:293:11) [D:\coding\topup_game\.next\build\chunks\node_modules_fe693df6._.js:6206:21]
+    at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34) [D:\coding\topup_game\.next\build\chunks\[root-of-the-server]__51225daf._.js:146:36]
+    at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23) [D:\coding\topup_game\.next\build\chunks\[root-of-the-server]__974941ed._.js:443:31]
+
+Import trace:
+  Client Component Browser:
+    ./app/globals.css [Client Component Browser]
+    ./app/layout.tsx [Server Component]
+
+
+    at async transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:34) [D:\coding\topup_game\.next\build\chunks\[root-of-the-server]__51225daf._.js:146:36])
+    at async run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:23) [D:\coding\topup_game\.next\build\chunks\[root-of-the-server]__974941ed._.js:443:31])

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "com.mobile.legends",
+    "name": "Mobile Legends: Bang Bang",
+    "logo": "https://play-lh.googleusercontent.com/NiIHdrOS85r76ggTpn1uLxslWAfmvi1WVVQY5Enrj3ZAcVBcb11RkkTFbej8qxB9UK0JPDhRVajVz_ogmqiC",
+    "banner": "https://play-lh.googleusercontent.com/SbaCWLT5oPGBHMIZge7RRcBNSSl0GdOob8Ev0nveyrLUCU1LNfifuEuAk3l16Gp9nrQDOl-MdqQJnpa0yYCFsR8",
+    "developer": "MOONTON",
+    "top": true
+  },
+  {
+    "id": "com.dts.freefireth",
+    "name": "Free Fire: Winterlands",
+    "logo": "https://play-lh.googleusercontent.com/1wE91ae_1YIJtIjQ1YJz5RhAajxEpF1TfrXGg7tcrKl90MOnF7XdFj71pw_MSQbyhM5PYz-eRdeBFQBzSGrV",
+    "banner": "https://play-lh.googleusercontent.com/uHV4VKtO6eD57CR-8TeSPrWfkc-uNkMeMuGyt7mt83OKw3JZA-KliT5a6oKSxehGZEh-",
+    "developer": "GARENA INTERNATIONAL I",
+    "top": true
+  },
+  {
+    "id": "com.tencent.ig",
+    "name": "PUBG MOBILE",
+    "logo": "https://play-lh.googleusercontent.com/zCSGnBtZk0Lmp1BAbyaZfLktDzHmC6oke67qzz3G1lBegAF2asyt5KzXOJ2PVdHDYkU",
+    "banner": "https://play-lh.googleusercontent.com/C4Qkqg0htdlNvS50W_9Pf2vyA8pJZ4UhN-kj81xD1bp9cHZpJ_Z4lnMbGNBP9p0Yz4vUwmZF1VZVHCG_deQM",
+    "developer": "Level Infinite",
+    "top": true
+  },
+  {
+    "id": "com.miHoYo.GenshinImpact",
+    "name": "Genshin Impact",
+    "logo": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O",
+    "banner": "https://play-lh.googleusercontent.com/hnS5HttiJp4HznckTVSfxxAxtXWERwYvWUiufgYS-r4wSHcmMrFt7JpGdxFtwe5UXmU",
+    "developer": "COGNOSPHERE PTE. LTD.",
+    "top": true
+  },
+  {
+    "id": "com.garena.game.codm",
+    "name": "Call of Duty®: Mobile - Garena",
+    "logo": "https://play-lh.googleusercontent.com/0DENLOaGXbadNpuWBLJf4lEhJCJmQV5Na1k5L311-sDPSncoW6_kDLsG_Vc4N0_AM_IGEf3cKTHGHKAyBYAe",
+    "banner": "https://play-lh.googleusercontent.com/edMF1Qb7Q6cER5tar0aVCe_Pcz0T88FSwmw_qjAoFcXqwhhI0DVzaFXS9BYEme6ZpePrd8yqAOK9XzrYkxSHvQ",
+    "developer": "Garena Mobile Private"
+  },
+  {
+    "id": "com.supercell.clashofclans",
+    "name": "Clash of Clans",
+    "logo": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ",
+    "banner": "https://play-lh.googleusercontent.com/DNh-KMv7W4NU5PzOTAnoo0YSYID0wPL6PYLQRhtMoUrhRp660fEnpGf_Uijs6Hkuk59f",
+    "developer": "Supercell"
+  },
+  {
+    "id": "com.supercell.clashroyale",
+    "name": "Clash Royale",
+    "logo": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+    "banner": "https://play-lh.googleusercontent.com/s9qs3woasHqqz_FbBoHmsrdHyxIiO5wtuurXR9wqJII_5DSOxFyhzcjgdKVVgjXtuiw",
+    "developer": "Supercell"
+  },
+  {
+    "id": "com.roblox.client",
+    "name": "Roblox",
+    "logo": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+    "banner": "https://play-lh.googleusercontent.com/D__1dw4a7Li_h6peAbJyrrkFcAmbHzfJXzm91G6d15tWVPCkpLaPpQHjp8p1sJcvSGI",
+    "developer": "Roblox Corporation"
+  },
+  {
+    "id": "com.mojang.minecraftpe",
+    "name": "Minecraft",
+    "logo": "https://play-lh.googleusercontent.com/27O5tpaYE82W6m30rJ_MX3-UvshlDM6O8oXDxb6GseYW2T7P8UNT19727MGmz-0q3w",
+    "banner": "https://play-lh.googleusercontent.com/gfNz1N2GNi5piz24IB08RQ4ZGfUnN_kOH8Edhh7uCiotI2P7IBWBXdHzR8gC01ppNnU",
+    "developer": "Mojang"
+  }
+]
